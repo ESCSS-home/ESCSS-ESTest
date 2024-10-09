@@ -107,7 +107,7 @@ function sum() {
   ESTest(
     "duplicate",
     "undefined",
-    "I got a cool name! try get_sum() instead, or see <url> for all changes"
+    "sum() has been deprecated. Please use get_sum() instead. See <url> for all changes."
   );
 }
 
